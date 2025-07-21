@@ -6,7 +6,7 @@ import express from 'express'
 const app = express()
 const server = http.createServer(app)
 
-const io = new Server(server, {
+const io = new server(server, {
     cors: {
         origin: ['http://localhost:5173']
     }
