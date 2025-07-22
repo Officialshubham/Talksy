@@ -2,7 +2,7 @@
 
 > A sleek **peer-to-peer chat application** built for seamless and secure communication.
 
-![Talksy Banner](<img width="1800" height="898" alt="Image" src="https://github.com/user-attachments/assets/8ead05c6-1c86-45dc-9020-af24a6a61a89" />) 
+<img width="1800" height="898" alt="Image" src="https://github.com/user-attachments/assets/8ead05c6-1c86-45dc-9020-af24a6a61a89" /> 
 
 ---
 
