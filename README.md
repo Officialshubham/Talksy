@@ -2,20 +2,7 @@
 
 > A sleek **peer-to-peer chat application** built for seamless and secure communication.
 
-![Talksy Banner](<img width="1800" height="898" alt="Image" src="https://github.com/user-attachments/assets/8ead05c6-1c86-45dc-9020-af24a6a61a89" />) 
-
----
-
-## Table of Contents
-
-- [About Talksy](#about-talksy)  
-- [Features](#features)  
-- [Tech Stack](#tech-stack)  
-- [Installation & Setup](#installation--setup)  
-- [Usage](#usage)  
-- [Screenshots](#screenshots)  
-- [Contributing](#contributing)  
-- [License](#license)  
+<img width="1800" height="898" alt="Image" src="https://github.com/user-attachments/assets/8ead05c6-1c86-45dc-9020-af24a6a61a89" />
 
 ---
 
@@ -48,7 +35,7 @@ Built using **React**, **Tailwind CSS**, and **DaisyUI** on the frontend, with *
 | DaisyUI             |                  |                  |            |
 
 ---
-## Run the app
+## Run the app (cloud)
 
 Go to the [Talksy](https://talksy-v6kw.onrender.com/)
 
@@ -64,6 +51,10 @@ cd backend
 npm run dev
 
 cd frontend
-npm run dev
+npm run dev (will run on http://localhost:5173/)
+```
+
+
+### Screenshots
 
 
