@@ -57,4 +57,22 @@ npm run dev (will run on http://localhost:5173/)
 
 ### Screenshots
 
+Login Page <br/><br/>
+<img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/8ead05c6-1c86-45dc-9020-af24a6a61a89" />
+
+<br/>Non-selected Chat Page <br/><br/>
+
+<img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/a29afe84-75ab-4982-bead-edeb59cb92ee" />
+
+<br/>Selected User Chat Page <br/><br/>
+
+<img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/b5765d88-de91-4fa7-b02e-ec2e6a053a3c" />
+
+<br/>Settings Page <br/><br/>
+
+<img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/315495fa-6cce-4d6b-8e3d-f5ab249bddc9" />
+
+<br/>Profile Page <br/><br/>
+
+<img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/1315b263-e67c-45e1-9944-8cd4a0cd4ab9" />
 
